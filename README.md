@@ -1,6 +1,6 @@
 # Sanjay Sankaran
 
-<zyugyzarc@gmail.com> (773)-669-5131
+Aspiring Software Developer | <zyugyzarc@gmail.com> (773)-669-5131
 
 Highly motivated software developer seeking a challenging role that leverages my expertise in machine learning, data science, and full-stack development to drive innovation and deliver cutting-edge solutions. Part time student at Bellevue College.
 
