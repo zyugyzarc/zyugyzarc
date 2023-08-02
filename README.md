@@ -1,12 +1,10 @@
 # Sanjay Sankaran
 
-<zyugyzarc@gmail.com> <(773)-669-5131>
+<zyugyzarc@gmail.com> (773)-669-5131
 
-Full time student at Bellevue College, focused on Computer Science, Engineering, and Machine Learning. Avid programmer for web applications, Embedded software, Operating systems and Game development.
+Highly motivated software developer seeking a challenging role that leverages my expertise in machine learning, data science, and full-stack development to drive innovation and deliver cutting-edge solutions. Part time student at Bellevue College.
 
-# Skills
-Most of my skills are self-taught, learned from the internet or the original documentation/guides.
-
+## Skills
 * C/C++ with dynamic memory management, and embedded programming for microcontrollers.
 * Python - backend for web, api and desktop applications
 * Data Science and Machine Learning with PyTorch.
@@ -16,21 +14,22 @@ Most of my skills are self-taught, learned from the internet or the original doc
 * OpenGL/Vulkan - graphics programming for shaders and compositing.
 * Blender - 3d modeling and CAD, Shader Programming, Video Editing, Compositing.
 
-# Projects
-* [Ascii-Render](https://github.com/zyugyzarc/ascii-render) - a rasterizer that runs in the terminal.
-* [ReRoll](https://zyugyzarc.itch.io/reroll) - a maze-like game with randomly generated maps.
+## Projects
+* [Ascii-Render](https://github.com/zyugyzarc/ascii-render)
+  *  a 3D raster engine that runs in the terminal, displaying images through text made with C++, python and cython.
+* [ReRoll](https://zyugyzarc.itch.io/reroll)
+  * an isometric top-down maze-crawler game with randomly generated levels made with Blender (UPBGE) and python.
 * [Dees](https://github.com/zyugyzarc/dees)
-- - a simple dynamic typed compiled language made with c++ and python
-* [D-chat](https://github.com/zyugyzarc/d-chat) - a decentralized chat application that uses peer-to-peer WebRTC.
-* line tracer robot - An Arduino controlled robot that follows a line.
-* Reinforcement Leaning for self-driving autonomous vehicles.
+  * a simple dynamic typed compile-to-executable language built with C++ and python
+* [D-chat](https://github.com/zyugyzarc/d-chat)
+  *  a decentralized peer-to-peer chat application that uses WebRTC, built with python.
+* Arduino and Robotics:
+  *  Line Following Robots
+  *  Bluetooth controlled Robots
+  *  6-DOF Robotic Arm
+* Machine learning - research:
+   * Reinforcement Leaning for self-driving autonomous vehicles.
+   * Diffusion based image and audio generation (StableDiffusion with LoRA and ControlNet, Riffusion)
+   * Natural Language Processing and inference with Llama, Llama 2, Alpaca, Guanaco and others.
 
-More on [GitHub](https://github.com/zyugyzarc) and [itch.io](https://zyugyzarc.itch.io)
-
-# Clubs
-I am an active member in many of the clubs here at Bellevue College:
-
-* BC Robotics Club
-* Bellevue College Filmmaking Club
-* Bellevue Game Devs
-* the Board Games Club
+My other projects can be found on [GitHub](https://github.com/zyugyzarc) and [itch.io](https://zyugyzarc.itch.io)
