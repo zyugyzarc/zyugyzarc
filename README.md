@@ -27,9 +27,14 @@ Highly motivated software developer seeking a challenging role that leverages my
   *  Line Following Robots
   *  Bluetooth controlled Robots
   *  6-DOF Robotic Arm
+  *  High power electronics
 * Machine learning - research:
    * Reinforcement Leaning for self-driving autonomous vehicles.
    * Diffusion based image and audio generation (StableDiffusion with LoRA and ControlNet, Riffusion)
    * Natural Language Processing and inference with Llama, Llama 2, Alpaca, Guanaco and others.
+
+## Student Organisations
+* President of BC Robotics Club
+* Advisor at BC Tech club
 
 My other projects can be found on [GitHub](https://github.com/zyugyzarc) and [itch.io](https://zyugyzarc.itch.io)
