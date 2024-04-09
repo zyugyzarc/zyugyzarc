@@ -1,13 +1,8 @@
 ---
 documentclass: extarticle
 fontsize: 12pt
-colorlinks: true
 geometry: margin=50pt
 header-includes: |
-  \usepackage[dvipsnames]{xcolor}
-  \usepackage{tikz,kantlipsum}
-  \usetikzlibrary{tikzmark}
-  \definecolor{bgcol}{HTML}{20349F}
   \usepackage[none]{hyphenat} 
   \usepackage{paracol}
 ---
@@ -18,29 +13,26 @@ header-includes: |
 \pagenumbering{gobble}
 \begin{paracol}{2}
 
-\huge Sanjay Sankaran\normalsize
+\Huge \textbf{Sanjay Sankaran}\normalsize
 
-Computer Science Student, Univ. of Washington Seattle
+Computer Science Student at\\
+\textbf{Univ. of Washington Seattle}\\
+located Bellevue, WA
 
 \switchcolumn
 \begin{flushright}
+\color{white}.\color{black}\\
+\color{white}.\color{black}\\
 \href{zyugyzarc@gmail.com}{zyugyzarc@gmail.com}\\
 \href{https://ggithub.com/zyugyzarc}{github.com/zyugyzarc}\\
 \href{http://linkedin.com/in/sanjay-sankaran}{linkedin.com/in/sanjay-sankaran}\\
 \end{flushright}
 \end{paracol}
 
-##### 
-
-\tikzmark{here}
-\begin{tikzpicture}[overlay, remember picture, inner sep=0pt, outer sep=0pt]
-  \fill [white] (current page.west |- {pic cs:here}) rectangle (current page.south east);
-\end{tikzpicture}
-\color{black}
-
-Highly motivated software developer seeking a challenging role that leverages my expertise in machine learning, data science, and full-stack development to drive innovation and deliver cutting-edge solutions. AAS - Computer science student at Bellevue College.
+$\hrulefill$
 
 ## Skills
+
 * C/C++ with dynamic memory management, and embedded programming for microcontrollers.
 * Python - backend for web, api and desktop applications
 * Data Science and Machine Learning with PyTorch.
@@ -49,6 +41,8 @@ Highly motivated software developer seeking a challenging role that leverages my
 * Linux - System Administration, Dependency management.
 * Vulkan - graphics programming for shaders and compositing.
 * Blender - 3d modeling and CAD, Shader Programming, Video Editing, Compositing.
+
+$\hrulefill$
 
 ## Projects
 * [Ascii-Render](https://github.com/zyugyzarc/ascii-render)
@@ -59,13 +53,14 @@ Highly motivated software developer seeking a challenging role that leverages my
   * a simple dynamic typed compile-to-executable language built with C++ and python
 * [D-chat](https://github.com/zyugyzarc/d-chat)
   *  a decentralized peer-to-peer chat application that uses WebRTC, built with python.
-* Arduino and Robotics:
-  *  Line Following Robots
-  *  Bluetooth controlled Robots
-  *  6-DOF Robotic Arm
 * Machine learning - research:
-   * Reinforcement Leaning for self-driving autonomous vehicles.
-   * Diffusion based image and audio generation (StableDiffusion with LoRA and ControlNet, Riffusion)
-   * Natural Language Processing and inference with Llama, Llama 2, Alpaca, Guanaco and others.
+   * Reinforcement Leaning: self-driving autonomous vehicles and pathfinding.
+   * Natural Language Processing: fine-tuning consumer LLMs such as Llama by Meta.
 
-My other projects can be found on [GitHub](https://github.com/zyugyzarc) and [itch.io](https://zyugyzarc.itch.io)
+$\hrulefill$
+
+## Education
+
+University of Washington Seattle - Bachelors in Computer Science (2024 - Present)
+
+Bellevue College - Associates in Arts and Sciences (2023 - 2024)
