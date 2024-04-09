@@ -1,35 +1,16 @@
+# Sanjay Sankaran
+
+<div style="display:flex"><p>
+Computer Science Student at<br>
+Univ. of Washington Seattle<br>
+located Bellevue, WA</p>
+<p>
+zyugyzarc@gmail.com<br>
+github.com/zyugyzarc<br>
+linkedin.com/in/sanjay-sankaran
+</p></div>
+
 ---
-documentclass: extarticle
-fontsize: 12pt
-geometry: margin=50pt
-header-includes: |
-  \usepackage[none]{hyphenat} 
-  \usepackage{paracol}
----
-
-<!--\pagecolor{bgcol}
-\color{white}-->
-
-\pagenumbering{gobble}
-\begin{paracol}{2}
-
-\Huge \textbf{Sanjay Sankaran}\normalsize
-
-Computer Science Student at\\
-\textbf{Univ. of Washington Seattle}\\
-located Bellevue, WA
-
-\switchcolumn
-\begin{flushright}
-\color{white}.\color{black}\\
-\color{white}.\color{black}\\
-\href{zyugyzarc@gmail.com}{zyugyzarc@gmail.com}\\
-\href{https://ggithub.com/zyugyzarc}{github.com/zyugyzarc}\\
-\href{http://linkedin.com/in/sanjay-sankaran}{linkedin.com/in/sanjay-sankaran}\\
-\end{flushright}
-\end{paracol}
-
-$\hrulefill$
 
 ## Skills
 
@@ -42,7 +23,7 @@ $\hrulefill$
 * Vulkan - graphics programming for shaders and compositing.
 * Blender - 3d modeling and CAD, Shader Programming, Video Editing, Compositing.
 
-$\hrulefill$
+---
 
 ## Projects
 * [Ascii-Render](https://github.com/zyugyzarc/ascii-render)
@@ -57,7 +38,7 @@ $\hrulefill$
    * Reinforcement Leaning: self-driving autonomous vehicles and pathfinding.
    * Natural Language Processing: fine-tuning consumer LLMs such as Llama by Meta.
 
-$\hrulefill$
+---
 
 ## Education
 
