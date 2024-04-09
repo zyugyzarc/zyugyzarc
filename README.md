@@ -1,8 +1,44 @@
-# Sanjay Sankaran
+---
+documentclass: extarticle
+fontsize: 12pt
+colorlinks: true
+geometry: margin=50pt
+header-includes: |
+  \usepackage[dvipsnames]{xcolor}
+  \usepackage{tikz,kantlipsum}
+  \usetikzlibrary{tikzmark}
+  \definecolor{bgcol}{HTML}{20349F}
+  \usepackage[none]{hyphenat} 
+  \usepackage{paracol}
+---
 
-Aspiring Software Developer | <zyugyzarc@gmail.com> (773)-669-5131
+<!--\pagecolor{bgcol}
+\color{white}-->
 
-Highly motivated software developer seeking a challenging role that leverages my expertise in machine learning, data science, and full-stack development to drive innovation and deliver cutting-edge solutions. Part time student at Bellevue College.
+\pagenumbering{gobble}
+\begin{paracol}{2}
+
+\huge Sanjay Sankaran\normalsize
+
+Computer Science Student, Univ. of Washington Seattle
+
+\switchcolumn
+\begin{flushright}
+\href{zyugyzarc@gmail.com}{zyugyzarc@gmail.com}\\
+\href{https://ggithub.com/zyugyzarc}{github.com/zyugyzarc}\\
+\href{http://linkedin.com/in/sanjay-sankaran}{linkedin.com/in/sanjay-sankaran}\\
+\end{flushright}
+\end{paracol}
+
+##### 
+
+\tikzmark{here}
+\begin{tikzpicture}[overlay, remember picture, inner sep=0pt, outer sep=0pt]
+  \fill [white] (current page.west |- {pic cs:here}) rectangle (current page.south east);
+\end{tikzpicture}
+\color{black}
+
+Highly motivated software developer seeking a challenging role that leverages my expertise in machine learning, data science, and full-stack development to drive innovation and deliver cutting-edge solutions. AAS - Computer science student at Bellevue College.
 
 ## Skills
 * C/C++ with dynamic memory management, and embedded programming for microcontrollers.
@@ -11,7 +47,7 @@ Highly motivated software developer seeking a challenging role that leverages my
 * Java - Data Structures and Algorithms.
 * Arduino - Worked with programmable microcontrollers and electronics to make various devices and autonomous robots.
 * Linux - System Administration, Dependency management.
-* OpenGL/Vulkan - graphics programming for shaders and compositing.
+* Vulkan - graphics programming for shaders and compositing.
 * Blender - 3d modeling and CAD, Shader Programming, Video Editing, Compositing.
 
 ## Projects
@@ -27,14 +63,9 @@ Highly motivated software developer seeking a challenging role that leverages my
   *  Line Following Robots
   *  Bluetooth controlled Robots
   *  6-DOF Robotic Arm
-  *  High power electronics
 * Machine learning - research:
    * Reinforcement Leaning for self-driving autonomous vehicles.
    * Diffusion based image and audio generation (StableDiffusion with LoRA and ControlNet, Riffusion)
    * Natural Language Processing and inference with Llama, Llama 2, Alpaca, Guanaco and others.
-
-## Student Organisations
-* President of BC Robotics Club
-* Advisor at BC Tech club
 
 My other projects can be found on [GitHub](https://github.com/zyugyzarc) and [itch.io](https://zyugyzarc.itch.io)
