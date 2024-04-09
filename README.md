@@ -12,36 +12,46 @@ linkedin.com/in/sanjay-sankaran
 
 ---
 
-## Skills
+# Projects
+#### Vulkanized (Work in Progress)
 
-* C/C++ with dynamic memory management, and embedded programming for microcontrollers.
-* Python - backend for web, api and desktop applications
-* Data Science and Machine Learning with PyTorch.
-* Java - Data Structures and Algorithms.
-* Arduino - Worked with programmable microcontrollers and electronics to make various devices and autonomous robots.
-* Linux - System Administration, Dependency management.
-* Vulkan - graphics programming for shaders and compositing.
-* Blender - 3d modeling and CAD, Shader Programming, Video Editing, Compositing.
+  a Vulkan wrapper / simplified API, used to make a 2D physics engine.  
+     Skills: Vulkan, C++, Parallelism, Cross--Pipeline synchronization
+
+#### [TraiNNer](https://github.com/zyugyzarc/trainner) 
+
+  A Platform to design and create neural networks.  
+     Skills: PyTorch, QT5, Graph Data Structures, Recursive Tree Evaluation.
+
+#### [D-chat](https://github.com/zyugyzarc/d-chat) 
+
+  a decentralized peer-to-peer chat application that uses WebRTC, built with python.  
+     Skills: Networking (WebRTC, HTTP), REST APIs, Cloud Server management, Databases, Python.
+
+#### [Ascii-Render](https://github.com/zyugyzarc/ascii-render) 
+
+  a 3D raster engine that runs in the terminal, rendering 3D models in realtime.  
+     Skills: Linear Algebra, Trigonometry, C++, Python, Linux/Bash
+
+#### [Pianoputer](https://github.com/zyugyzarc/pianoputer) 
+
+  Open-source Fork of pianoputer, allows you to play the piano using a computer keyboard.  
+     Skills: Python, Device I/O, Pygame
+
+#### [Arrow](https://github.com/zyugyzarc/arrow) 
+
+  An interpreted programming language implemented in java.  
+     Skills: Regex Token Matching, AST
+
+#### Machine learning - research: 
+
+   **Reinforcement Leaning**: Autonomous vehicles, pathfinding in PyTorch.  
+      **Natural Language Processing**: fine-tuning consumer-grade LLMs such as Llama, using llama.cpp.
 
 ---
 
-## Projects
-* [Ascii-Render](https://github.com/zyugyzarc/ascii-render)
-  *  a 3D raster engine that runs in the terminal, displaying images through text made with C++, python and cython.
-* [ReRoll](https://zyugyzarc.itch.io/reroll)
-  * an isometric top-down maze-crawler game with randomly generated levels made with Blender (UPBGE) and python.
-* [Dees](https://github.com/zyugyzarc/dees)
-  * a simple dynamic typed compile-to-executable language built with C++ and python
-* [D-chat](https://github.com/zyugyzarc/d-chat)
-  *  a decentralized peer-to-peer chat application that uses WebRTC, built with python.
-* Machine learning - research:
-   * Reinforcement Leaning: self-driving autonomous vehicles and pathfinding.
-   * Natural Language Processing: fine-tuning consumer LLMs such as Llama by Meta.
+# Education
 
----
+**University of Washington Seattle** - Bachelors in Computer Science (2024 - Present)
 
-## Education
-
-University of Washington Seattle - Bachelors in Computer Science (2024 - Present)
-
-Bellevue College - Associates in Arts and Sciences (2023 - 2024)
+**Bellevue College** - Associates in Arts and Sciences (2023 - 2024)
