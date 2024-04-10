@@ -1,6 +1,6 @@
 ---
 documentclass: extarticle
-fontsize: 11pt
+fontsize: 10pt
 geometry: margin=50pt
 header-includes: |
   \usepackage[none]{hyphenat} 
@@ -11,66 +11,66 @@ header-includes: |
 \color{white}-->
 
 \pagenumbering{gobble}
-\begin{paracol}{2}
 
-\Huge \textbf{Sanjay Sankaran}\normalsize
+\begin{center}
+\huge \textbf{Sanjay Sankaran}\normalsize
 
-Computer Science Student at\\
-\textbf{Univ. of Washington Seattle}\\
-located Bellevue, WA
+Computer Science Student\\
+\href{mailto:zyugyzarc@gmail.com}{zyugyzarc@gmail.com} |
+\href{https://ggithub.com/zyugyzarc}{github.com/zyugyzarc} |
+\href{http://linkedin.com/in/sanjay-sankaran}{linkedin.com/in/sanjay-sankaran}
+\end{center}
 
-\switchcolumn
-\begin{flushright}
-\color{white}.\color{black}\\
-\color{white}.\color{black}\\
-\href{mailto:zyugyzarc@gmail.com}{zyugyzarc@gmail.com}\\
-\href{https://ggithub.com/zyugyzarc}{github.com/zyugyzarc}\\
-\href{http://linkedin.com/in/sanjay-sankaran}{linkedin.com/in/sanjay-sankaran}\\
-\end{flushright}
-\end{paracol}
-
-$\hrulefill$
-
-# Projects
-#### Vulkanized (Work in Progress)\newline
-
-  a Vulkan wrapper / simplified API, used to make a 2D physics engine.  
-     Skills: Vulkan, C++, Parallelism, Cross--Pipeline synchronization
-
-#### [TraiNNer](https://github.com/zyugyzarc/trainner)\newline
-
-  A Platform to design and create neural networks.  
-     Skills: PyTorch, QT5, Graph Data Structures, Recursive Tree Evaluation.
-
-#### [D-chat](https://github.com/zyugyzarc/d-chat)\newline
-
-  a decentralized peer-to-peer chat application that uses WebRTC, built with python.  
-     Skills: Networking (WebRTC, HTTP), REST APIs, Cloud Server management, Databases, Python.
-
-#### [Ascii-Render](https://github.com/zyugyzarc/ascii-render)\newline
-
-  a 3D raster engine that runs in the terminal, rendering 3D models in realtime.  
-     Skills: Linear Algebra, Trigonometry, C++, Python, Linux/Bash
-
-#### [Pianoputer](https://github.com/zyugyzarc/pianoputer)\newline
-
-  Open-source Fork of pianoputer, allows you to play the piano using a computer keyboard.  
-     Skills: Python, Device I/O, Pygame
-
-#### [Arrow](https://github.com/zyugyzarc/arrow)\newline
-
-  An interpreted programming language implemented in java.  
-     Skills: Regex Token Matching, AST
-
-#### Machine learning - research:\newline
-
-   **Reinforcement Leaning**: Autonomous vehicles, pathfinding in PyTorch.  
-      **Natural Language Processing**: fine-tuning consumer-grade LLMs such as Llama, using llama.cpp.
 
 $\hrulefill$
 
 # Education
 
-**University of Washington Seattle** - Bachelors in Computer Science (2024 - Present)
+**University of Washington Seattle** - Bachelors in Computer Science (2024 - 2026)
 
 **Bellevue College** - Associates in Arts and Sciences (2023 - 2024)
+
+
+$\hrulefill$
+
+# Skills
+
+* Languages: C, C++, Python, Javascript, Java, GLSL (glslc/spv)
+* Application Development: Datastructures for Algorithm Optimization
+* Web Development: Flask and Django backends, REST APIs, Websockets
+* Computer Graphics: Vulkan, GLSL shader programming, Blender 3D
+* Linux: System Administration, Bash scripting and Automation
+* Embedded programming: C++ for arduino, attiny and esp boards; python for raspberry pi
+
+$\hrulefill$
+
+# Projects
+#### Vulkanized (Work in Progress)
+
+  * A Vulkan wrapper / simplified API, used to make a 2D physics engine.
+  * A Study on Graphics Hardware, GPGPU and interaction models.
+  * Skills: Vulkan, C++, Parallelism, Cross--Pipeline synchronization
+
+#### [TraiNNer](https://github.com/zyugyzarc/trainner)
+
+  * A Platform to design and create neural networks, built on top of PyTorch
+  * Helps new users create, draw, test and train neural nets with no code.
+  * Skills: PyTorch, QT5, Graph Data Structures, Recursive Tree Evaluation.
+
+#### [D-chat](https://github.com/zyugyzarc/d-chat)
+
+  * A decentralized peer-to-peer chat application that uses WebRTC, built with python.
+  * A Study on network design, distributed systems and decentralized infrastructure. Also helps users communicate peer-to-peer without a 3rd party server.
+  * Skills: Networking (WebRTC, HTTP), REST APIs, Cloud Server management, Databases, Python.
+
+#### [Ascii-Render](https://github.com/zyugyzarc/ascii-render)
+
+  * a 3D raster engine that runs in the terminal, rendering 3D models in realtime.
+  * A study on Graphics Processing, Shader Programming and Mathematical Models of 3D Objects.
+  * Skills: Linear Algebra, Trigonometry, C++, Python, Linux/Bash
+
+#### [Arrow](https://github.com/zyugyzarc/arrow)
+
+  * An interpreted programming language implemented in java.
+  * A study into the depths of Interpreters, JIT compilers, and tools like LLVMpipe.
+  * Skills: Regex Token Matching, AST
