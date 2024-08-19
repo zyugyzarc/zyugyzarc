@@ -16,8 +16,7 @@ header-includes: |
 \begin{center}
 \huge \textbf{Sanjay Sankaran}\normalsize
 
-Computer Science Student\\
-\href{mailto:zyugyzarc@gmail.com}{zyugyzarc@gmail.com} |
+\href{mailto:sanjayjs@uw.edu}{sanjayjs@uw.edu} |
 \href{https://ggithub.com/zyugyzarc}{github.com/zyugyzarc} |
 \href{http://linkedin.com/in/sanjay-sankaran}{linkedin.com/in/sanjay-sankaran}
 \end{center}
@@ -27,20 +26,20 @@ $\hrulefill$
 
 # Education
 
-**University of Washington Seattle** - Bachelors in Computer Science (Class of 2025)
+**University of Washington Seattle** - BS Computer Science (Class of 2025)
 
 
 $\hrulefill$
 
 # Skills
 
-* Languages: C, C++, Python, Javascript, Java, GLSL (glslc/spv)
+* Languages: C, C++, Python, Typescript/TSX/JSX, Javascript, Java, GLSL (glslc/spv)
 * Machine Learning: Pytorch / Tensorflow, LLama models, Autoencoders/VAEs
 * Application Development: Native Applications Using GTK and QT
-* Web Development: Flask and Django backends, REST APIs, Websockets, Session and State Management, FullStack Applications with React Frontends.
+* Web Development: Fullstack, Flask and Django backends, REST APIs, Websockets, React.
 * Computer Graphics: Vulkan, GLSL shader programming - Graphics and Compute, Blender 3D.
 * Linux: Bash/Python scripting and Automation, Server-side and System configuration.
-* Embedded programming   / Robotics: C++ for Arduino, ATTiny and ESP boards; python for Raspberry Pi, electronics and circuits.
+* Embedded programming   / Robotics: C++ for Arduino, ATTiny and ESP boards; Python for Raspberry Pi
 
 $\hrulefill$
 
@@ -48,7 +47,7 @@ $\hrulefill$
 
 #### [TraiNNer](https://github.com/zyugyzarc/trainner) - Neural Network Designer
 
-  * A Platform made to design, create, train, and visualize neural networks , built on top of PyTorch: Helps new users create, draw, test and train neural nets with no programming required ([Screenshots](https://github.com/zyugyzarc/trainner)).
+  * A platform to design, create, train, and visualize neural networks , built on top of PyTorch: Helps new users create, draw, test and train neural nets with no programming required ([Screenshots](https://github.com/zyugyzarc/trainner)).
   * Skills: PyTorch, QT5, Process Visualization, Graph DataStructures.
 
 #### [Hot Potato](https://github.com/zyugyzarc/hot-potato) - 2D Multiplayer Game
