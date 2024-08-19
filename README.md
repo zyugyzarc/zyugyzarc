@@ -2,7 +2,7 @@
 # Sanjay Sankaran
 
 ### Computer Science Student, UW
-<mailto:zyugyzarc@gmail.com> | <http://github.com/zyugyzarc> |<http://linkedin.com/in/sanjay-sankaran>
+[sanjayjs@uw.edu](mailto:sanjayjs@uw.edu) | <http://github.com/zyugyzarc> |<http://linkedin.com/in/sanjay-sankaran>
 
 # Education
 
