@@ -20,8 +20,6 @@
 
 # Projects
 
-# Projects
-
 #### [TraiNNer](https://github.com/zyugyzarc/trainner) - Neural Network Designer
 
   * A platform to design, create, train, and visualize neural networks , built on top of PyTorch: Helps new users create, draw, test and train neural nets with no programming required ([Screenshots](https://github.com/zyugyzarc/trainner)).
