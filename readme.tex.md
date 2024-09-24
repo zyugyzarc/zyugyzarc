@@ -3,9 +3,6 @@ documentclass: extarticle
 fontsize: 10pt
 geometry: "margin=50pt,top=20pt"
 colorlinks: true
-header-includes: |
-  \usepackage[none]{hyphenat} 
-  \usepackage{paracol}
 ---
 
 <!--\pagecolor{bgcol}
@@ -14,63 +11,75 @@ header-includes: |
 \pagenumbering{gobble}
 
 \begin{center}
-\huge \textbf{Sanjay Sankaran}\normalsize
+\huge \textbf{Sanjay Sankaran}
+\large
 
-\href{mailto:sanjayjs@uw.edu}{sanjayjs@uw.edu} |
-\href{https://ggithub.com/zyugyzarc}{github.com/zyugyzarc} |
-\href{http://linkedin.com/in/sanjay-sankaran}{linkedin.com/in/sanjay-sankaran}
+Computer Science, UW Seattle
 \end{center}
 
+\begin{flushleft}
+Phone: \href{tel:7736695131}{(773)-669-5131}
+\hfill \href{https://github.com/zyugyzarc}{github.com/zyugyzarc} \\
 
+Email: \href{mailto:sanjayjs@uw.edu}{sanjayjs@uw.edu}
+\hfill
+\href{http://linkedin.com/in/sanjay-sankaran}{linkedin.com/in/sanjay-sankaran}
+\end{flushleft}\normalsize
+
+\vspace{-0.5\baselineskip}
 $\hrulefill$
+\vspace{-0.5\baselineskip}
 
 # Education
 
-**University of Washington Seattle** - BS Computer Science (Class of 2025)
+$\quad$**University of Washington, Seattle** - Paul Allen School - Bachelor of Computer Science (Class of 2025)
 
-
+\vspace{-0.5\baselineskip}
 $\hrulefill$
+\vspace{-0.5\baselineskip}
 
 # Skills
 
 * Languages: C, C++, Python, Typescript/TSX/JSX, Javascript, Java, GLSL (glslc/spv)
-* Machine Learning: Pytorch / Tensorflow, LLama models, Autoencoders/VAEs
-* Application Development: Native Applications Using GTK and QT
 * Web Development: Fullstack, Flask and Django backends, REST APIs, Websockets, React.
-* Computer Graphics: Vulkan, GLSL shader programming - Graphics and Compute, Blender 3D.
-* Linux: Bash/Python scripting and Automation, Server-side and System configuration.
-* Embedded programming   / Robotics: C++ for Arduino, ATTiny and ESP boards; Python for Raspberry Pi
+* Machine Learning: Pytorch/Tensorflow, LLM, Reinforcement Learning, Transformer Networks, Autoencoders/VAEs.
+* Operating Systems: Linux, Docker, Bash, Server-side and System configuration.
+* Embedded Systems   / Robotics: C++ for Arduino, ATTiny and ESP boards; Python for Raspberry Pi
+* Computer Graphics: Vulkan, GLSL shader programming - Graphics and Compute, GPGPU, Godot, Blender 3D.
+* Application Development: Native Applications Using GTK and QT in C++ and Python
 
+\vspace{-0.5\baselineskip}
 $\hrulefill$
+\vspace{-0.5\baselineskip}
 
 # Projects
 
 #### [TraiNNer](https://github.com/zyugyzarc/trainner) - Neural Network Designer
 
-  * A platform to design, create, train, and visualize neural networks , built on top of PyTorch: Helps new users create, draw, test and train neural nets with no programming required ([Screenshots](https://github.com/zyugyzarc/trainner)).
-  * Skills: PyTorch, QT5, Process Visualization, Graph DataStructures.
+  *  A PyTorch-based platform for building, training, visualizing, and testing neural networks, designed to empower users without coding experience. ([Screenshots](https://github.com/zyugyzarc/trainner)).
+  * Skills: PyTorch, QT5, Process Visualization, Graphs, Data structures and Algorithms.
 
 #### [Hot Potato](https://github.com/zyugyzarc/hot-potato) - 2D Multiplayer Game
   
-  * Skills: WebRTC, p2p networks, Redis (Vercel), Javascript, HTML/DOM
-  * Built a custom react-inspired Javascript UI-Framework from scratch (no dependencies) with Object Oriented Programming, for a seamless user experience ([Demo Project](https://github.com/zyugyzarc/quizzerole?tab=readme-ov-file#about-the-framework))
-  * Made a decentralized state management system with low latency, by building a peer-to-peer realtime mesh network, using WebRTC.
-  * Used the Custom UI-Framework and the State Management System to build a fun multiplayer party game.
+  *  Developed a multiplayer game engine built with a custom React-inspired UI framework and leveraging WebRTC for real-time communication.
+  * Skills: WebRTC, p2p networks, Redis, Vercel (Cloud Hosting), Javascript, React
+
+#### Eddie - Self-Learning Robot
+
+  * Utilized deep reinforcement learning to train a trajectory control agent for an autonomous mobile robot, incorporating various sensors in both simulation and real-world testing.
+  * Skills: Reinforcement Learning, PyTorch, Godot, Raspberry Pi, Electronics, CAD
 
 #### Vulkanized - 2D Physics Engine
   
+  * Built a 2D physics engine utilizing Vulkan API with compute shaders and parallel programming techniques for enhanced performance. 
   * Skills: Vulkan, C++, Memory Management, Parallelism and Synchronization
-  * A C++ style wrapper around vulkan, used to make a 2D physics engine using compute shaders and parallelization.
-  * A Study on Graphics APIs, GPGPU and interaction/simulation models.
 
 #### [Ascii-Render](https://github.com/zyugyzarc/ascii-render) - 3D Graphics Engine
 
-  * a 3D raster engine - rendering 3D models with shading and textures in realtime, onto a terminal/shell using ascii-art ([screenshots](https://github.com/zyugyzarc/ascii-render)).
-  * A study on Graphics Processing, Shader Programming and Mathematical Models of 3D Objects.
+  * Created a real-time 3D graphics engine for terminals/shells using ASCII art. ([Screenshots](https://github.com/zyugyzarc/ascii-render)).
   * Skills: Linear Algebra, Trigonometry, C++, Python, Linux/Bash/Shell
 
 #### [Arrow](https://github.com/zyugyzarc/arrow) - Custom Runtime and Interpreter
 
   * An interpreted programming language implemented in java.
-  * A study into the depths of Interpreters, JIT compilers, and tools like LLVMpipe.
-  * Skills: Tokenization, Context-Specific-Grammars, Abstract Syntax Treess
+  * Skills: Tokenization, Context-Specific-Grammars, Abstract Syntax Trees
