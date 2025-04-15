@@ -23,7 +23,7 @@
 ##### TraiNNer - Neural Network Designer | Pytorch, QT, Dataflow
 - Designed and developed an interactive Python application to design neural networks.
 - Implemented the runtimes various neural network components and layers.
-- Developed visualization for network weights and code-flow for better model and program intuition. beans
+- Developed visualization for network weights and code-flow for better model and program intuition.
 
 ##### Eddie - Reinforcement Learning Robot | Reinforcement Learning, Pytorch, Godot, Raspberri Pi
 - Built a 2-wheeled robot, and then used reinforcement learning and SLAM to pathfind around an environment.
